@@ -1,0 +1,15 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "Interview challenges for the Backend Engineer role.",
+  "main": "index.js",
+  "author": "TIBU",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^27.0.6"  
+  },
+  "scripts": {
+    "test_2": "jest challenge_2 --env=node --verbose --noStackTrace"
+  }
+}
